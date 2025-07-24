@@ -50,9 +50,8 @@
     }
   </style>
 </head>
-<body>
-  <header>
-    <img src=\"/mnt/data/1000028713.jpg\" alt=\"GLP Notary Logo\" class=\"logo\">
+    <img src="glp-logo.jpg" alt="GLP Notary Logo" class="logo">
+
     <h1>GLP Notary</h1>
     <hr style="border: none; border-top: 2px solid black; margin: 0;">
     <nav>
